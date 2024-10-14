@@ -16,14 +16,14 @@ Couse link [here](https://neetcode.io/roadmap).
 
 
 <!-- BASIC TEMPLATE -->
-<!-- 0000 | [Problem Title](https://leetcode.com/problems/) | [Python](./my-solutions/) | `Easy` | 00-00-2024 | N/A | N/A -->
+<!-- 0000 | [Problem Title](https://leetcode.com/problems/) | [Python](./my-solutions/) <br> (2 solutions) | `Easy` | 00-00-2024 | N/A | N/A -->
 
 
-<!-- ## Array & Hashing
-| # | Title | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+## Array & Hashing
+| # | Title | Code | Difficulty |   Date Solved   |   Last Revised   | Note |
 |---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
-0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./my-solutions/0383-ransom-note/0383-ransom-note.py) | `Easy` | 10-03-2024 | N/A | N/A
-0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./my-solutions/0290-word-pattern) <br> (2 solutions) | `Easy` | 10-12-2024 | N/A | N/A -->
+0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./01-array-and-hashing/01-contains-duplicate/) | `Easy` | 10-14-2024 | N/A | N/A
+
 
 
 <!-- &nbsp;  
