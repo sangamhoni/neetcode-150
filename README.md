@@ -23,6 +23,8 @@ Couse link [here](https://neetcode.io/roadmap).
 | # | Title | Code | Difficulty |   Date Solved   |   Last Revised   | Note |
 |---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./01-array-and-hashing/01-contains-duplicate/) | `Easy` | 10-14-2024 | N/A | N/A
+0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./01-array-and-hashing/02-valid-anagram/) | `Easy` | 10-14-2024 | N/A | N/A
+<!-- 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./01-array-and-hashing/03-two-sum/) | `Easy` | 10-14-2024 | N/A | N/A -->
 
 
 
