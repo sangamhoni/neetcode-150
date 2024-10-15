@@ -20,7 +20,7 @@ Couse link [here](https://neetcode.io/roadmap).
 
 
 ## Array & Hashing
-| # | Title | Code | Difficulty |   Date Solved   |   Last Revised   | Note |
+| # | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
 |---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./01-array-and-hashing/01-contains-duplicate/) | `Easy` | 10-14-2024 | N/A | N/A
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./01-array-and-hashing/02-valid-anagram/) | `Easy` | 10-14-2024 | N/A | N/A
@@ -28,12 +28,10 @@ Couse link [here](https://neetcode.io/roadmap).
 
 
 
-<!-- &nbsp;  
-
 ## Two Pointers
-| # | Title | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+| # | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
 |---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
-0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./my-solutions/0383-middle-of-the-linked-list/0383-middle-of-the-linked-list.py) | `Easy` | 10-03-2024 | N/A | Linked-List -->
+0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./02-two-pointers/01-valid-palindrome/) | `Easy` | 10-15-2024 | N/A | N/A
 
 
 <!-- ## Sliding Window -->
