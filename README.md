@@ -31,7 +31,7 @@ Couse link [here](https://neetcode.io/roadmap).
 ## Two Pointers
 | # | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
 |---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
-0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./02-two-pointers/01-valid-palindrome/) | `Easy` | 10-15-2024 | N/A | N/A
+0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./02-two-pointers/01-valid-palindrome/) | `Easy` | 10-15-2024 | 10-16-2024 | N/A
 0167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./02-two-pointers/02-two-sum-II/) | `Medium` | 10-15-2024 | 10-16-2024 | N/A
 
 

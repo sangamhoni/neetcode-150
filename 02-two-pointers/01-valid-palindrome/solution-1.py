@@ -4,25 +4,30 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        start = 0
-        end = len(s)-1
-
-        while start < end:
-            sChar = s[start].lower()
-            eChar = s[end].lower()
-
-            # we could also use alnum() function for this
-            if not (97 <= ord(sChar) <= 122) and not (48 <= ord(sChar) <= 57):
-                print(sChar)
-                start += 1
-            elif not (97 <= ord(eChar) <= 122) and not (48 <= ord(eChar) <= 57):
-                print(eChar)
-                end -= 1
-            else:
-                if ord(sChar) != ord(eChar):
-                    return False
-                
-                start += 1
-                end -= 1
+        l = 0
+        r = len(s) - 1
+        s = s.lower()
+        
+        while l<r:
+            lChar = s[l]
+            rChar = s[r]
             
+            if not self.alnum(lChar):
+                l += 1
+            elif not self.alnum(rChar):
+                r -= 1
+            else:
+                if lChar != rChar:
+                    return False
+                else:
+                    l += 1
+                    r -= 1
+        
         return True
+    
+    def alnum(self, a):
+        # we could also use the inbuilt isalnum() method for this
+        if 97 <= ord(a.lower()) <= 122 or 48 <= ord(a) <= 57:
+            return True
+        else:
+            return False
