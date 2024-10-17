@@ -35,7 +35,11 @@ Couse link [here](https://neetcode.io/roadmap).
 0167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./02-two-pointers/02-two-sum-II/) | `Medium` | 10/15/2024 | 10/16/2024 | N/A
 
 
-<!-- ## Sliding Window -->
+## Sliding Window
+| # | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
+0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./03-sliding-window/01-best-time-to-buy-and-sell-stock/) | `Easy` | 10/16/2024 | N/A | N/A
+
 <!-- ## Stack -->
 <!-- ## Binary Search -->
 <!-- ## Linked List -->
