@@ -4,5 +4,8 @@ Space Complexity: `O(s+t)`
 
 &nbsp;  
 
-## Date Revised
-10/16/2024  
+## Personal Stats
+| Date Solved | Time Taken |
+| ----------- | ---------- |
+| 10-16-2024 | 4min |  
+| 10-14-2024 | 10min |  

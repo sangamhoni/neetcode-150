@@ -4,5 +4,7 @@ Space Complexity: `O(n)`
 
 &nbsp;  
 
-## Date Revised
-N/A
+## Personal Stats
+| Date Solved | Time Taken |
+| ----------- | ---------- |
+| 10-14-2024 | 2min |  
