@@ -37,7 +37,7 @@ Couse link [here](https://neetcode.io/roadmap).
 ## Sliding Window
 | #  | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
 |----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
-0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./03-sliding-window/01-best-time-to-buy-and-sell-stock/) | `Easy` | 10-16-2024 | 10-17-2024 | N/A
+0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./03-sliding-window/01-best-time-to-buy-and-sell-stock/) | `Easy` | 10-16-2024 | 10-24-2024 | N/A
 
 ## Stack
 | #  | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
