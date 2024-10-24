@@ -20,26 +20,31 @@ Couse link [here](https://neetcode.io/roadmap).
 
 
 ## Array & Hashing
-| # | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
-|---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
+| #  | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./01-array-and-hashing/01-contains-duplicate/) | `Easy` | 10-14-2024 | 10-17-2024 | N/A
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./01-array-and-hashing/02-valid-anagram/) | `Easy` | 10-14-2024 | 10-20-2024 | N/A
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./01-array-and-hashing/03-two-sum/) | `Easy` | 10-14-2024 | N/A | N/A
 
 
 ## Two Pointers
-| # | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
-|---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
+| #  | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./02-two-pointers/01-valid-palindrome/) | `Easy` | 10-15-2024 | 10-20-2024 | N/A
 0167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./02-two-pointers/02-two-sum-II/) | `Medium` | 10-15-2024 | 10-20-2024 | N/A
 
 
 ## Sliding Window
-| # | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
-|---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
+| #  | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./03-sliding-window/01-best-time-to-buy-and-sell-stock/) | `Easy` | 10-16-2024 | 10-17-2024 | N/A
 
-<!-- ## Stack -->
+## Stack
+| #  | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
+0020 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Python](./04-stack/01-valid-parenthesis/) | `Easy` | 10-24-2024 | N/A | N/A
+
+
 <!-- ## Binary Search -->
 <!-- ## Linked List -->
 <!-- ## Trees -->
