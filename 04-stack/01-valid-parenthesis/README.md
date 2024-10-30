@@ -7,4 +7,5 @@ Space Complexity: `O(n)`
 ## Personal Stats
 | Date Solved | Time Taken |
 | ----------- | ---------- |
-| 10-24-2024 | 4min |  
+| 10-30-2024  | 7min |  
+| 10-24-2024  | 4min |  
