@@ -26,6 +26,7 @@ Couse link [here](https://neetcode.io/roadmap).
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./01-array-and-hashing/02-valid-anagram/) | `Easy` | 10-14-2024 | 10-20-2024 | N/A
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./01-array-and-hashing/03-two-sum/) | `Easy` | 10-14-2024 | N/A | N/A
 0049 | [Group Anagram](https://leetcode.com/problems/group-anagrams/) | [Python](./01-array-and-hashing/04-group-anagram/) | `Medium` | 11-06-2024 | N/A | N/A
+0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./01-array-and-hashing/05-top-k-frequent-elements/) | `Medium` | 11-07-2024 | N/A | N/A
 
 
 ## Two Pointers
