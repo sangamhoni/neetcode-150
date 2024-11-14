@@ -12,4 +12,5 @@ Space Complexity: `O(2n)`   -->
 ## Personal Stats
 | Date Solved | Time Taken |
 | ----------- | ---------- |
+| 11-14-2024  | 6.5min |  
 | 11-07-2024  | 30min+ |  
