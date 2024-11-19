@@ -51,7 +51,11 @@ Couse link [here](https://neetcode.io/roadmap).
 0020 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Python](./04-stack/01-valid-parenthesis/) | `Easy` | 10-24-2024 | 11-06-2024 | N/A
 
 
-<!-- ## Binary Search -->
+## Binary Search
+| #  | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
+0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./05-binary-search/01-binary-search/) | `Easy` | 11-18-2024 | N/A | N/A
+
 <!-- ## Linked List -->
 <!-- ## Trees -->
 <!-- ## Heap / Priority Queue -->
