@@ -26,7 +26,7 @@ Couse link [here](https://neetcode.io/roadmap).
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./01-array-and-hashing/02-valid-anagram/) | `Easy` | 10-14-2024 | 11-08-2024 | N/A
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./01-array-and-hashing/03-two-sum/) | `Easy` | 10-14-2024 | N/A | N/A
 0049 | [Group Anagram](https://leetcode.com/problems/group-anagrams/) | [Python](./01-array-and-hashing/04-group-anagram/) | `Medium` | 11-06-2024 | 11-20-2024 | N/A
-0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./01-array-and-hashing/05-top-k-frequent-elements/) | `Medium` | 11-07-2024 | 11-20-2024 | N/A
+0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./01-array-and-hashing/05-top-k-frequent-elements/) | `Medium` | 11-07-2024 | 12-11-2024 | N/A
 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./01-array-and-hashing/07-product-of-array-except-itself/) | `Medium` | 11-07-2024 | 12-11-2024 | N/A
 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./01-array-and-hashing/09-longest-consecutive-sequence/) | `Medium` | 11-12-2024 | 12-11-2024 | N/A
 
