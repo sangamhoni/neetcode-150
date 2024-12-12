@@ -48,7 +48,7 @@ Couse link [here](https://neetcode.io/roadmap).
 ## Stack
 | #  | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
 |----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
-0020 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Python](./04-stack/01-valid-parenthesis/) | `Easy` | 10-24-2024 | 11-06-2024 | N/A
+0020 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Python](./04-stack/01-valid-parenthesis/) | `Easy` | 10-24-2024 | 12-12-2024 | N/A
 
 
 ## Binary Search
