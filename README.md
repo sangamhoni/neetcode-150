@@ -62,6 +62,7 @@ Couse link [here](https://neetcode.io/roadmap).
 | #  | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
 |----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./06-linked-list/01-reverse-linked-list/) | `Easy` | 12-31-2024 | N/A | N/A
+0021 | [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./06-linked-list/02-merge-two-sorted-list/) | `Easy` | 12-31-2024 | N/A | N/A
 
 
 <!-- ## Trees -->
