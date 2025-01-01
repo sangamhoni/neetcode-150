@@ -45,6 +45,7 @@ Couse link [here](https://neetcode.io/roadmap).
 |----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./03-sliding-window/01-best-time-to-buy-and-sell-stock/) | `Easy` | 10-16-2024 | 12-12-2024 | N/A
 
+
 ## Stack
 | #  | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
 |----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
@@ -56,7 +57,13 @@ Couse link [here](https://neetcode.io/roadmap).
 |----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./05-binary-search/01-binary-search/) | `Easy` | 11-18-2024 | N/A | N/A
 
-<!-- ## Linked List -->
+
+## Linked List
+| #  | Problem | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
+0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./06-linked-list/01-reverse-linked-list/) | `Easy` | 12-31-2024 | N/A | N/A
+
+
 <!-- ## Trees -->
 <!-- ## Heap / Priority Queue -->
 <!-- ## Backtracking -->
