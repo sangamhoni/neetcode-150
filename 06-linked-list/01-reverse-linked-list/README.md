@@ -15,4 +15,5 @@ Space Complexity: `O(1)`
 ## Personal Stats
 | Date Solved | Time Taken |
 | ----------- | ---------- |
+| 01-05-2025  | 3min |  
 | 12-31-2024  | 10min |  
