@@ -64,7 +64,7 @@ Couse link [here](https://neetcode.io/roadmap).
 |----| ------- | -------- | ---------- | --------------- | ---------------- | ---- |
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./06-linked-list/01-reverse-linked-list/) | `Easy` | 12-31-2024 | 01-05-2025 | N/A
 0021 | [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./06-linked-list/02-merge-two-sorted-list/) | `Easy` | 12-31-2024 | 01-06-2025 | N/A
-0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./06-linked-list/03-linked-list-cycle/) | `Easy` | 01-01-2025 | 01-02-2025 | N/A
+0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./06-linked-list/03-linked-list-cycle/) | `Easy` | 01-01-2025 | 01-06-2025 | N/A
 
 
 
